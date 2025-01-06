@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+.env
+accounts/migrations
+config/__pycache__
