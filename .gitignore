@@ -2,3 +2,4 @@
 .env
 accounts/migrations
 config/__pycache__
+db.sqlite3
